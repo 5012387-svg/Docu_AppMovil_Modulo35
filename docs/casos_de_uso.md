@@ -1,7 +1,7 @@
 # Diagrama de Casos de Uso - App Móvil
 
 ## 1. Representación Visual
-<img src="./assets/diagrama_casos_uso.png" alt="Diagrama de Casos de Uso">
+![Diagrama de Casos de Uso](/docs/assets/diagrama_casos_uso.png)
 
 ## 2. Descripción de Actores y Flujos
 * **Usuario de la App:** Puede registrarse, iniciar sesión y realizar operaciones dentro de la interfaz móvil.
