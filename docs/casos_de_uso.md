@@ -2,8 +2,8 @@
 
 ## 1. Representación Visual
 
-<<<<<<< HEAD
-![Diagrama de Casos de Uso](./docs/assets/diagrama_casos_uso.png)
+
+![Diagrama de Casos de Uso](../docs/assets/diagrama_casos_uso.png)
 
 
 ## 2. Descripción de Actores y Flujos
