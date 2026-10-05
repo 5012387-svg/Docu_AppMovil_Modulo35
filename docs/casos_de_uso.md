@@ -3,7 +3,7 @@
 ## 1. Representación Visual.
 
 ## 2. Diagrama de casos de uso
-![Diagrama de Casos de Uso](./assets/diagrama_casos_uso.png)
+![Diagrama de Casos de Uso](../assets/diagrama_casos_uso.png)
 
 
 ## 2. Descripción de Actores y Flujos
