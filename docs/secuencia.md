@@ -1,7 +1,7 @@
 # Diagrama de Secuencia - Flujo Principal
 
 ## 1. Diagrama de Interacción
-![Diagrama de Secuencia](../assets/diagrama_secuencia.png)
+![Diagrama de Secuencia](./assets/diagrama_secuencia.png)
 
 ## 2. Explicación del Flujo
 1. El usuario ingresa sus credenciales en la interfaz de la aplicación móvil y presiona "Ingresar".
